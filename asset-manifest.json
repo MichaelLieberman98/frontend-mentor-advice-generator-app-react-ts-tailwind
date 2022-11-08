@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/css/main.2653604b.css",
+    "main.js": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/js/main.2c533ad0.js",
+    "static/js/787.07d30af0.chunk.js": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/js/787.07d30af0.chunk.js",
+    "index.html": "/frontend-mentor-advice-generator-app-react-ts-tailwind/index.html",
+    "static/media/icon-dice.svg": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-desktop.svg": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "static/media/pattern-divider-mobile.svg": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.2653604b.css.map": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/css/main.2653604b.css.map",
+    "main.2c533ad0.js.map": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/js/main.2c533ad0.js.map",
+    "787.07d30af0.chunk.js.map": "/frontend-mentor-advice-generator-app-react-ts-tailwind/static/js/787.07d30af0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2653604b.css",
+    "static/js/main.2c533ad0.js"
+  ]
+}
